@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662d9cfa-059c-468a-ab92-a56bf30d4196" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/viewing_user_notifications.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/viewing_notifications_by_user2.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/user_authorization.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/user_authorization.cy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757400406738</updated>
       <workItem from="1757400407960" duration="2519000" />
-      <workItem from="1757402971905" duration="6770000" />
+      <workItem from="1757402971905" duration="8411000" />
     </task>
     <servers />
   </component>
