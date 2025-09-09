@@ -9,5 +9,14 @@ describe('Авторизация пользователя', () => {
             .type('QWEasd123');
         cy.get('#app > div.page > div > section > form > div.form__buttons > div:nth-child(3) > button')
             .click();
+        cy.get('#app > div.page > div > div.header-container.header-personal > div.header-container__user-avatar-info > div')
+            .click();
+        cy.get(
+            '#app > div.page > div > div.header-container.header-personal > div.header-container__user-avatar-info > div > div > div.base-icon.base-icon__medium.base-icon__default.notification-bell__icon__desktop > svg > path'
+        ).click();
+
+
+
+
     });
 });
