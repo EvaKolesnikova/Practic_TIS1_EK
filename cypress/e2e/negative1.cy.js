@@ -1,0 +1,14 @@
+describe('Регистрация пользователя в системе', () => {
+    it('Регистрация пользователя в системе', () => {
+        cy.visit('https://dev.profteam.su/registration');
+
+        cy.get('#app > div.page > div > section > form > div:nth-child(1) > div.form__labels > div:nth-child(1) > div:nth-child(1) > div > input')
+            .click()
+            .type('Eva');
+
+        cy.get('#app > div.page > div > section > form > div:nth-child(1) > div.form__labels > div:nth-child(1) > div:nth-child(2) > div > input')
+            .click()
+            .type('qwe411463');
+
+    });
+});
