@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="662d9cfa-059c-468a-ab92-a56bf30d4196" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative1.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative2.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative3.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative4.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/test2.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/test3.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/adding_student_role.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/test2.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/applying_Employer_role.cy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
       <updated>1757400406738</updated>
       <workItem from="1757400407960" duration="2519000" />
       <workItem from="1757402971905" duration="9036000" />
-      <workItem from="1757431792606" duration="4337000" />
+      <workItem from="1757431792606" duration="7265000" />
     </task>
     <servers />
   </component>
